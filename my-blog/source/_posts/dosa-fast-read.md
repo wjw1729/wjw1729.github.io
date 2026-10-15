@@ -18,12 +18,12 @@ tags:
 
 # 问题定义
 <!-- 这是一张图片，ocr 内容为：OUTPUT HIDDENUR [OOOOO .... . . . . . . . . . . . . . ........... . . . . . . . . . . . . . CELORIS MULTI-QUERY ATTENTION(CORE ATTENTION) MALALU {QTIIQIID TOP-K SELECTOR 100...00 CONCATENATE LIGHTNING FLEW;KBOO............. INDEXER CONCATENATE [QI.I了 APPLY ROPE PARTIALLY PARTIALLY APPLY ROPE APPLY ROPE APPLY ROPE [000 INPUT HIDDEN FIGURE 2 ATTENTION ARCHITECTURE OF DEEPSEEK-V3.2, WHERE DSA IS INSTANTIATED UNDER MLA. THE GREEN PART ILLUSTRATES HOW DSA SELECTS THE TOP-K KEY-VALUE ENTRIES ACCORDING TO TO THE INDEXER- -->
-![](https://cdn.nlark.com/yuque/0/2026/png/71899354/1792080064790-dead03a6-5aa7-45f2-8a89-91be121c6b06.png)
+![](/images/dosa/attention-arch.png)
 
 
 
 <!-- 这是一张图片，ocr 内容为：(ANG-K), RELU IT,S 三 T, -->
-![](https://cdn.nlark.com/yuque/0/2026/png/71899354/1792080123057-47dad6f7-ca49-4ffd-909e-82ba9c58f648.png)
+![](/images/dosa/index-score.png)
 
 我们需要对于每个token，通过上述公式计算其相关性。
 
