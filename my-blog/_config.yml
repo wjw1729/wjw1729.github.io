@@ -98,6 +98,15 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: landscape
 
+# MathJax (hexo-filter-mathjax). Enable per post with front-matter: mathjax: true
+mathjax:
+  tags: ams
+  single_dollars: true
+  cjk_width: 0.9
+  normal_width: 0.6
+  append_css: true
+  every_page: false
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
